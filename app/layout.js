@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "CandleMC — Minecraft Server",
-  description: "Survive. Fight. Become the best."
+  title: "CandleMC — Minecraft SMP",
+  description: "Your next adventure starts here."
 };
 
 export default function RootLayout({ children }) {
